@@ -1,6 +1,6 @@
 ---
 
-# 🛡️ Layer 2 Security Audit: Cisco Discovery Protocol (CDP) Manipulation & DoS
+# 🛡️ Security Audit: Cisco Discovery Protocol (CDP) Manipulation & DoS
 
 ---
 <p align="center">
