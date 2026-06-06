@@ -17,7 +17,7 @@
 * **Asignatura:** Seguridad de Redes
 * **Auditor Técnico:** Zoe Daniela Bobonagua Acevedo
 * **Matrícula:** 2025-0839
-* **Evidencia Audiovisual:** [▶️ Ver Lista de Reproducción en YouTube](https://youtu.be/cduEUtTLYSY?si=6tDZVadBdQ14XCzJ)
+* **Evidencia Audiovisual:** [▶️ Video aqui ](https://youtu.be/cduEUtTLYSY?si=6tDZVadBdQ14XCzJ)
 
 ---
 
